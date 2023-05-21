@@ -1,0 +1,12 @@
+body
+{
+	 background-repeat:no-repeat;
+	 background-image:url("kei.png");
+
+}
+ul li
+{
+	
+		display:inline-block;
+	    padding: 120px;
+}
